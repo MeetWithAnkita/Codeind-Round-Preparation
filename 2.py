@@ -99,7 +99,7 @@ def run():
                 current_digit = digit  # update position
                 sleep(0.2)
 
-            # if reaches 12, start again from 1
+            # if reaches 12, start again from 01 
             current_digit = 1
 
         except KeyboardInterrupt:
