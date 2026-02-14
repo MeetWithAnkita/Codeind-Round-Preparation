@@ -1,0 +1,1 @@
+print("Reverse the array: ",arr[:-1] )
